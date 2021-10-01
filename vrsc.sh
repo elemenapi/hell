@@ -1,5 +1,3 @@
-#!/bin/bash
-
 sudo apt update -y
 sudo apt install screen -y
 sudo screen -S random
